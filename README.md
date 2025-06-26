@@ -114,3 +114,6 @@ Minimal configuration needed—just supply your dataset with a date and sales co
 
 Helps in understanding model performance and confidence visually before using metrics.
 
+Future Prediction:
+
+[img !alt](https://github.com/SathishB-1/Sales_Forecasting/blob/f068a5610d1a27c2d9a3de0fb263b422783edbc0/Screenshot%202025-06-24%20214707.png)
